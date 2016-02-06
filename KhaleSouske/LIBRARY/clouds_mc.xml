@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="clouds_mc" itemID="56b3487d-000001f8" linkageExportForAS="true" linkageClassName="ui.gamePlay.object.cloudsCod" lastModified="1454755122">
+  <timeline>
+    <DOMTimeline name="clouds_mc">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="clouds.png">
+                  <matrix>
+                    <Matrix a="0.423324584960938" d="0.18658447265625" tx="-78.3" ty="-20.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="184.95" y="109.85"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

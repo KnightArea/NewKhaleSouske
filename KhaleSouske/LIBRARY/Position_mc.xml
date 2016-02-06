@@ -1,0 +1,36 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Position_mc" itemID="56b32de6-000001e6" linkageExportForAS="true" linkageClassName="ui.gamePlay.Player.Position.positionCod" lastModified="1454586137">
+  <timeline>
+    <DOMTimeline name="Position_mc" currentFrame="1">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="kale-sooske.png">
+                  <matrix>
+                    <Matrix a="0.164321899414063" d="0.164321899414063" tx="-70" ty="-70"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="426" y="426"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="kale-sooske.png">
+                  <matrix>
+                    <Matrix a="-0.160675048828125" d="0.164321899414063" tx="68.45" ty="-70"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="426" y="426"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

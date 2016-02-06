@@ -1,0 +1,96 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="800" height="480" currentTimeline="1" xflVersion="2.2" creatorInfo="Adobe Flash Professional CS6" platform="Windows" versionInfo="Saved by Adobe Flash Windows 12.0 build 481" majorVersion="12" buildNumber="481" viewAngle3D="81.8905827822219" vanishingPoint3DX="240" vanishingPoint3DY="400" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" autoSaveEnabled="true" autoSaveHasPrompted="true">
+     <media>
+          <DOMBitmapItem name="clouds.png" itemID="56b349bd-000001fc" sourceExternalFilepath="./LIBRARY/clouds.png" sourceLastImported="1454589956" externalFileCRC32="3887820629" externalFileSize="49075" originalCompressionType="lossless" quality="50" href="clouds.png" bitmapDataHRef="M 3 1454589994.dat" frameRight="7400" frameBottom="4400"/>
+          <DOMBitmapItem name="flower-land-mountain-landscape-game-background-game-assets-gui-sidescroller-horizontal-wallpaper-side-scrolling-mobile-games.png" itemID="56b32d9f-000001e3" sourceExternalFilepath="./LIBRARY/flower-land-mountain-landscape-game-background-game-assets-gui-sidescroller-horizontal-wallpaper-side-scrolling-mobile-games.png" sourceLastImported="1451496828" externalFileSize="82709" originalCompressionType="lossless" quality="50" href="flower-land-mountain-landscape-game-background-game-assets-gui-sidescroller-horizontal-wallpaper-side-scrolling-mobile-games.png" bitmapDataHRef="M 1 1454582797.dat" frameRight="16000" frameBottom="12000"/>
+          <DOMBitmapItem name="kale-sooske.png" itemID="56b32d9f-000001e4" sourceExternalFilepath="./LIBRARY/kale-sooske.png" sourceLastImported="1451497632" externalFileSize="98292" originalCompressionType="lossless" quality="50" href="kale-sooske.png" bitmapDataHRef="M 2 1454582833.dat" frameRight="17040" frameBottom="17040"/>
+     </media>
+     <symbols>
+          <Include href="clouds_mc.xml" itemID="56b3487d-000001f8" lastModified="1454755122"/>
+          <Include href="hit_mc.xml" itemID="56b338a7-000001f0" lastModified="1454586159"/>
+          <Include href="Player_mc.xml" itemID="56b32ce9-000001de" lastModified="1454590291"/>
+          <Include href="Position_mc.xml" itemID="56b32de6-000001e6" lastModified="1454586137"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Scene 1">
+               <layers>
+                    <DOMLayer name="Player" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Player_mc" selected="true" centerPoint3DX="70" centerPoint3DY="390">
+                                             <matrix>
+                                                  <Matrix tx="70" ty="390"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Clouds" color="#FF800A" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="clouds_mc" centerPoint3DX="-107.25" centerPoint3DY="238.6">
+                                             <matrix>
+                                                  <Matrix tx="-107.25" ty="238.6"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Back" color="#4FFF4F" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMBitmapInstance libraryItemName="flower-land-mountain-landscape-game-background-game-assets-gui-sidescroller-horizontal-wallpaper-side-scrolling-mobile-games.png">
+                                             <matrix>
+                                                  <Matrix d="0.800003051757813"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <persistentData>
+          <PD n="flash.fla.filepath" v="E:/Flash/Sample/NewKhaleSouske/KhaleSouske/KhaleSouske.xfl"/>
+          <PD n="swf.folder.path" v="E:/Flash/Sample/NewKhaleSouske/"/>
+          <PD n="com.air.artemis.pubipa" v="false"/>
+          <PD n="com.air.artemis.pubair" v="true"/>
+          <PD n="flash.swf.basename" v="KhaleSouske"/>
+          <PD n="com.air.sdk.path" v="E:\Program Files\AIRSDK_Compiler18"/>
+          <PD n="com.air.artemis.airdest" v="KhaleSouske.apk"/>
+     </persistentData>
+     <PrinterSettings/>
+     <publishHistory>
+          <PublishItem publishSize="130774" publishTime="1454756408"/>
+          <PublishItem publishSize="131635" publishTime="1454755655"/>
+          <PublishItem publishSize="130770" publishTime="1454755614"/>
+          <PublishItem publishSize="130771" publishTime="1454755542"/>
+          <PublishItem publishSize="130772" publishTime="1454755382"/>
+          <PublishItem publishSize="130769" publishTime="1454755367"/>
+          <PublishItem publishSize="130742" publishTime="1454595888"/>
+          <PublishItem publishSize="130741" publishTime="1454595804"/>
+          <PublishItem publishSize="130741" publishTime="1454595733"/>
+          <PublishItem publishSize="130742" publishTime="1454594253"/>
+          <PublishItem publishSize="130742" publishTime="1454594160"/>
+          <PublishItem publishSize="130742" publishTime="1454594133"/>
+          <PublishItem publishSize="131597" publishTime="1454593994"/>
+          <PublishItem publishSize="130740" publishTime="1454593974"/>
+          <PublishItem publishSize="130742" publishTime="1454590662"/>
+          <PublishItem publishSize="131422" publishTime="1454590033"/>
+          <PublishItem publishSize="120473" publishTime="1454586589"/>
+          <PublishItem publishSize="120470" publishTime="1454586558"/>
+          <PublishItem publishSize="120469" publishTime="1454586478"/>
+          <PublishItem publishSize="120480" publishTime="1454586418"/>
+     </publishHistory>
+</DOMDocument>
